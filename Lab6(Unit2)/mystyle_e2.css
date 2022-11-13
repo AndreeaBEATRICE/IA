@@ -1,0 +1,57 @@
+	header{
+		height: 40px;
+		background-color:#c447a5
+		}
+		
+		body{
+		padding: 10px;
+		margin: 0;
+		font-family: Helvetica;
+		background-color:#edd5e9
+		}
+		
+		#Inceput{
+		margin-left: 10px;
+		background-color:#c447a5
+		
+		}
+		
+		#NumePrenume{
+		font-weight: 200;
+		}
+		
+		table, td{
+		border: 1px solid;
+		border-collapse: collapse;
+		padding: 10px;
+		}
+		
+		#Pasiuni{
+		border-style: dashed;
+		width: 100px;
+		}
+		
+		#imagineinceput{
+		border-radius: 30px;
+		padding: 20px;
+		position: absolute;
+		top: 80px;
+		right: 200px;
+		opacity: 5.9;
+		}
+	.coleg{
+	color:#450435
+	}
+		footer{
+		background-color: #7a025a
+		}
+		
+		#titlu {
+			font-family: Arial;
+			font-size:28;
+			color: PURPLE;
+		}
+			
+		
+		
+		
